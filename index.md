@@ -8,3 +8,6 @@ I have made a header useing 3 #'s
 ``` python
 hello = str("not hello")
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
